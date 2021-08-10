@@ -77,7 +77,7 @@
 1. Hello, who's there, I'm talking.
 1. Hello, sunshine!
 1. What’s kickin’, little chicken?
-1. My name's <your-name>, and I'm a bad guy.
+1. My name's `<your-name>`, and I'm a bad guy.
 1. ‘Ello, gov'nor!
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-morais/)
