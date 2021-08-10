@@ -12,7 +12,7 @@
 - 🙈 Have you noticed my sarcastic sense of humor?
 
 ###### LANGUAGES AND TOOLS
-##### Are it languages right? 🤔
+##### Are it languages, right? 🤔
 
 ![Portuguese](https://img.shields.io/badge/-Portuguese-blueviolet?style=for-the-badge&color=005f99)
 ![English](https://img.shields.io/badge/-English-blueviolet?style=for-the-badge&color=ff449f)
