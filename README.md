@@ -44,7 +44,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-##### when we need to save the new oil
+##### when I need to store the new oil
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -69,16 +69,16 @@
 
 
 ###### TEN WAYS YOU CAN SAY HI TO ME
-- Hi, honeybunch!
-- What’s crackin’?
-- Howdy, howdy, howdy!
-- Ghostbusters, whatya want?
-- I'm Batman.
-- Hello, who's there, I'm talking.
-- Hello, sunshine!
-- What’s kickin’, little chicken?
-- My name's <your-name>, and I'm a bad guy.
-- ‘Ello, gov'nor!
+1. Hi, honeybunch!
+1. What’s crackin’?
+1. Howdy, howdy, howdy!
+1. Ghostbusters, whatya want?
+1. I'm Batman.
+1. Hello, who's there, I'm talking.
+1. Hello, sunshine!
+1. What’s kickin’, little chicken?
+1. My name's <your-name>, and I'm a bad guy.
+1. ‘Ello, gov'nor!
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-morais/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wmorais90)
