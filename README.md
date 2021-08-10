@@ -51,3 +51,19 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
+
+###### TEN WAYS YOU CAN SAY HI TO ME
+- Hi, honeybunch!
+- What’s crackin’?
+- Howdy, howdy, howdy!
+- Ghostbusters, whatya want?
+- I'm Batman.
+- Hello, who's there, I'm talking.
+- Hello, sunshine!
+- What’s kickin’, little chicken?
+- My name's <your-name>, and I'm a bad guy.
+- ‘Ello, gov'nor!
+  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-morais/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wmorais90)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williandmorais@gmail.com)
