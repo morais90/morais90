@@ -7,7 +7,7 @@
 - 🦾 I'm not adept to write code in any language, only binary. naah I love Python ❤️
 - 🎤 I'm such a good singer! naah I just like to find new songs
 - ✈️  I love to travel and know new cultures. Yes, just it
-- 🐾 I have two dogs, Bug 🐛 and Buda 🐕. Never do that, Bug is really a problematic dog
+- 🐾 I have two dogs, Bug 🐛 and Buda 🐕. Never do that, Bug is a really problematic dog
 - 💕 Married to the best wife of the world. I was forced because of the line above 🤷‍♂️
 - 🙈 Have you noticed my sarcastic sense of humor?
 
