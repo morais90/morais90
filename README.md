@@ -15,9 +15,9 @@
 ###### LANGUAGES AND TOOLS
 ##### Are it languages right? 🤔
 
-![Portuguese](https://img.shields.io/badge/-Portuguese-blueviolet?style=for-the-badge)
-![English](https://img.shields.io/badge/-English-blueviolet?style=for-the-badge)
-![Spanish](https://img.shields.io/badge/-Spanish-blueviolet?style=for-the-badge)
+![Portuguese](https://img.shields.io/badge/-Portuguese-blueviolet?style=for-the-badge&color=005f99)
+![English](https://img.shields.io/badge/-English-blueviolet?style=for-the-badge&color=ff449f)
+![Spanish](https://img.shields.io/badge/-Spanish-blueviolet?style=for-the-badge&color=fff5B7)
 
 
 ##### When I need to do fancy things
