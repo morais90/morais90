@@ -4,11 +4,11 @@
 
 ###### ABOUT ME
 - 🧑‍💻 I'm currently working at **Koper**
-- 🦾 I'm not adept to write code in any language, only binary. naah I love Python ❤️
+- 🦾 I'm not adept to writing code in any language, only binary. naah I love Python ❤️
 - 🎤 I'm such a good singer! naah I just like to find new songs
-- ✈️  I love to travel and know new cultures. Yes, just it
+- ✈️  I love to travel and getting to know new cultures. Yes, just that
 - 🐾 I have two dogs, Bug 🐛 and Buda 🐕. Never do that, Bug is a really problematic dog
-- 💕 Married to the best wife of the world. I was forced because of the line above 🤷‍♂️
+- 💕 Married to the best wife in the world. I was forced because of the sentence above 🤷‍♂️
 - 🙈 Have you noticed my sarcastic sense of humor?
 
 ###### LANGUAGES AND TOOLS
