@@ -3,7 +3,7 @@
 ##### I'm a experienced full-stack web developer from Brazil 🇧🇷 to the world 🚀🚀
 
 ###### ABOUT ME
-- 🧑‍💻 I'm currently working at **Finetune**
+- 🧑‍💻 I'm currently working at **BHub**
 - 🦾 I'm not adept to writing code in any language, only binary. naah I love Python ❤️
 - 🎤 I'm such a good singer! naah I just like to find new songs
 - ✈️  I love to travel and getting to know new cultures. Yes, just that
