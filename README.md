@@ -33,7 +33,7 @@
 
 - 🧑‍💻 Currently working at **BHub**
 - 🦾 Not adept to writing code in any language, only binary... nah I love Python ❤️
-- 🗣️ Fluent in **Portuguese** 🇧🇷 | **English** 🇺🇸 | **Spanish** 🇪🇸
+- 🗣️ **Portuguese** 🇧🇷 (Native) | **English** 🇺🇸 (Proficient) | **Spanish** 🇪🇸 (Proficient)
 - 🎤 Such a good singer! naah I just like to find new songs
 - ✈️ Love to travel and getting to know new cultures. Yes, just that
 - 🐾 Have two dogs, Bug 🐛 and Buda 🐕. Never do that, Bug is a really problematic dog
