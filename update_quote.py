@@ -4,6 +4,7 @@ import json
 import random
 import re
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import TypedDict
 
@@ -162,8 +163,9 @@ def update_readme(quote_data: Quote) -> None:
     svg = generate_quote_svg(quote_data["quote"], quote_data["author"])
     svg_file.write_text(svg, encoding="utf-8")
 
+    timestamp = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
     pattern = rf"{QUOTE_MARKER_START}.*?{QUOTE_MARKER_END}"
-    replacement = f'{QUOTE_MARKER_START}\n<img src="./quote.svg" alt="Quote" />\n{QUOTE_MARKER_END}'
+    replacement = f'{QUOTE_MARKER_START}\n<img src="./quote.svg?t={timestamp}" alt="Quote" />\n{QUOTE_MARKER_END}'
     new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
 
     readme_file.write_text(new_content, encoding="utf-8")
