@@ -67,6 +67,9 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morais90&theme=dracula" alt="GitHub Streak"/>
+</div>
 
 ###### TEN WAYS YOU CAN SAY HI TO ME
 1. Hi, honeybunch!
