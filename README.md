@@ -8,7 +8,22 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wmorais90)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williandmorais@gmail.com)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=morais90&theme=dracula" alt="GitHub Streak"/>
+<details>
+<summary>💬 Ten ways you can say hi to me</summary>
+<br>
+
+1. Hi, honeybunch!
+2. What's crackin'?
+3. Howdy, howdy, howdy!
+4. Ghostbusters, whatya want?
+5. I'm Batman.
+6. Hello, who's there, I'm talking.
+7. Hello, sunshine!
+8. What's kickin', little chicken?
+9. My name's `<your-name>`, and I'm a bad guy.
+10. 'Ello, gov'nor!
+
+</details>
 
 </div>
 
@@ -67,22 +82,3 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-
----
-
-<details>
-<summary>💬 Ten ways you can say hi to me</summary>
-<br>
-
-1. Hi, honeybunch!
-2. What's crackin'?
-3. Howdy, howdy, howdy!
-4. Ghostbusters, whatya want?
-5. I'm Batman.
-6. Hello, who's there, I'm talking.
-7. Hello, sunshine!
-8. What's kickin', little chicken?
-9. My name's `<your-name>`, and I'm a bad guy.
-10. 'Ello, gov'nor!
-
-</details>
