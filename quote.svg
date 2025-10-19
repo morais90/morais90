@@ -1,7 +1,7 @@
 <svg width="700" height="120" xmlns="http://www.w3.org/2000/svg">
   <rect width="700" height="120" fill="none"/>
   <g>
-    <text x="50%" y="45" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="16" fill="#586069" text-anchor="middle" font-style="italic">"Before software can be reusable it first has to be usable."</text>
-    <text x="50%" y="85" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="14" fill="#6a737d" text-anchor="middle">— Ralph Johnson</text>
+    <text x="50%" y="45" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="16" fill="#586069" text-anchor="middle" font-style="italic">"The best error message is the one that never shows up."</text>
+    <text x="50%" y="85" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="14" fill="#6a737d" text-anchor="middle">— Thomas Fuchs</text>
   </g>
 </svg>
