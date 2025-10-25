@@ -1,8 +1,7 @@
-<svg width="700" height="140" xmlns="http://www.w3.org/2000/svg">
-  <rect width="700" height="140" fill="none"/>
+<svg width="700" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="120" fill="none"/>
   <g>
-    <text x="50%" y="45" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="16" fill="#586069" text-anchor="middle" font-style="italic">"Programs must be written for people to read, and only incidentally for machines"</text>
-    <text x="50%" y="65" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="16" fill="#586069" text-anchor="middle" font-style="italic">"to execute."</text>
-    <text x="50%" y="105" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="14" fill="#6a737d" text-anchor="middle">— Harold Abelson</text>
+    <text x="50%" y="45" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="16" fill="#586069" text-anchor="middle" font-style="italic">"Debugging is twice as hard as writing the code in the first place."</text>
+    <text x="50%" y="85" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="14" fill="#6a737d" text-anchor="middle">— Brian Kernighan</text>
   </g>
 </svg>
