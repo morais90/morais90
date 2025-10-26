@@ -1,7 +1,7 @@
 <svg width="700" height="120" xmlns="http://www.w3.org/2000/svg">
   <rect width="700" height="120" fill="none"/>
   <g>
-    <text x="50%" y="45" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="16" fill="#586069" text-anchor="middle" font-style="italic">"Debugging is twice as hard as writing the code in the first place."</text>
-    <text x="50%" y="85" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="14" fill="#6a737d" text-anchor="middle">— Brian Kernighan</text>
+    <text x="50%" y="45" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="16" fill="#586069" text-anchor="middle" font-style="italic">"Code is like humor. When you have to explain it, it's bad."</text>
+    <text x="50%" y="85" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="14" fill="#6a737d" text-anchor="middle">— Cory House</text>
   </g>
 </svg>
