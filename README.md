@@ -5,7 +5,7 @@
 ### I'm an experienced full-stack web developer from Brazil 🇧🇷 to the world 🚀
 
 <!-- QUOTE:START -->
-<img src="./quote.svg?t=20251117003713" alt="Quote" />
+<img src="./quote.svg?t=20251118003517" alt="Quote" />
 <!-- QUOTE:END -->
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-morais/)
