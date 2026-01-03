@@ -1,7 +1,7 @@
 <svg width="700" height="120" xmlns="http://www.w3.org/2000/svg">
   <rect width="700" height="120" fill="none"/>
   <g>
-    <text x="50%" y="45" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="16" fill="#586069" text-anchor="middle" font-style="italic">"It's not a bug – it's an undocumented feature."</text>
-    <text x="50%" y="85" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="14" fill="#6a737d" text-anchor="middle">— Anonymous</text>
+    <text x="50%" y="45" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="16" fill="#586069" text-anchor="middle" font-style="italic">"Experience is the name everyone gives to their mistakes."</text>
+    <text x="50%" y="85" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="14" fill="#6a737d" text-anchor="middle">— Oscar Wilde</text>
   </g>
 </svg>
