@@ -1,8 +1,7 @@
-<svg width="700" height="140" xmlns="http://www.w3.org/2000/svg">
-  <rect width="700" height="140" fill="none"/>
+<svg width="700" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="120" fill="none"/>
   <g>
-    <text x="50%" y="45" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="16" fill="#586069" text-anchor="middle" font-style="italic">"Any fool can write code that a computer can understand. Good programmers write"</text>
-    <text x="50%" y="65" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="16" fill="#586069" text-anchor="middle" font-style="italic">"code that humans can understand."</text>
-    <text x="50%" y="105" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="14" fill="#6a737d" text-anchor="middle">— Martin Fowler</text>
+    <text x="50%" y="45" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="16" fill="#586069" text-anchor="middle" font-style="italic">"First, solve the problem. Then, write the code."</text>
+    <text x="50%" y="85" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="14" fill="#6a737d" text-anchor="middle">— John Johnson</text>
   </g>
 </svg>
