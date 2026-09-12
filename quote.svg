@@ -1,7 +1,8 @@
-<svg width="700" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="700" height="120" fill="none"/>
+<svg width="700" height="140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="140" fill="none"/>
   <g>
-    <text x="50%" y="45" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="16" fill="#586069" text-anchor="middle" font-style="italic">"Programming isn't about what you know; it's about what you can figure out."</text>
-    <text x="50%" y="85" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="14" fill="#6a737d" text-anchor="middle">— Chris Pine</text>
+    <text x="50%" y="45" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="16" fill="#586069" text-anchor="middle" font-style="italic">"The most important property of a program is whether it accomplishes the"</text>
+    <text x="50%" y="65" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="16" fill="#586069" text-anchor="middle" font-style="italic">"intention of its user."</text>
+    <text x="50%" y="105" font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="14" fill="#6a737d" text-anchor="middle">— C.A.R. Hoare</text>
   </g>
 </svg>
